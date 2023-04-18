@@ -1,0 +1,504 @@
+Uri: https://toka.peerduck.com/nft-game/
+File Name: D:\crypto projects\toka.peerduck.com\nft-game\index.htm
+Content Type: text/html
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/krvjbrv.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\krvjbrv.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/tknvlt.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\tknvlt.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/knkjnll.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\knkjnll.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/rtgvr.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\rtgvr.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/ricuthc.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\ricuthc.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjecn.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjecn.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/k5jfyn.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\k5jfyn.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kbkjn.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kbkjn.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/vbjbj.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\vbjbj.png
+Content Type: image/png
+
+Uri: https://toka.peerduck.com/feed/
+File Name: D:\crypto projects\toka.peerduck.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://toka.peerduck.com/comments/feed/
+File Name: D:\crypto projects\toka.peerduck.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://toka.b-cdn.net/wp-includes/css/dist/block-library/style.min.css?ver=6.0
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.4.3
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.4.3
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elementor-inner-sections-by-taspristudio/public/css/euis-public.css?ver=1.0.0
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elementor-inner-sections-by-taspristudio\public\css\euis-public.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/themes/toka/assets/css/bootstrap.css?ver=1.24
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\themes\toka\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/themes/toka/style.css?ver=1.24
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\themes\toka\style.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Inter:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|DM+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Space+Grotesk:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0
+File Name: D:\crypto projects\toka.peerduck.com\css.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://toka.peerduck.com/wp-json/
+File Name: D:\crypto projects\toka.peerduck.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://toka.peerduck.com/wp-json/wp/v2/pages/22305
+File Name: D:\crypto projects\toka.peerduck.com\wp-json\wp\v2\pages\22305.json
+Content Type: application/json
+
+Uri: https://toka.peerduck.com/xmlrpc.php?rsd
+File Name: D:\crypto projects\toka.peerduck.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://toka.b-cdn.net/wp-includes/wlwmanifest.xml
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://toka.peerduck.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftoka.peerduck.com%2Fnft-game%2F
+File Name: D:\crypto projects\toka.peerduck.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://toka.peerduck.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftoka.peerduck.com%2Fnft-game%2F&format=xml
+File Name: D:\crypto projects\toka.peerduck.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/03/cropped-toka-4rf-32x32.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\03\cropped-toka-4rf-32x32.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/03/cropped-toka-4rf-192x192.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\03\cropped-toka-4rf-192x192.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/03/cropped-toka-4rf-180x180.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\03\cropped-toka-4rf-180x180.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/font-awesome5/css/fontawesome-all.min.css
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elements-for-elementor\assets_libraries\font-awesome5\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/font-awesome5/css/fontawesome-v4-shims.css
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elements-for-elementor\assets_libraries\font-awesome5\css\fontawesome-v4-shims.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/owl-carousel-new/assets/owl.carousel.css
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elements-for-elementor\assets_libraries\owl-carousel-new\assets\owl.carousel.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/lity/lity.min.css
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elements-for-elementor\assets_libraries\lity\lity.min.css
+Content Type: text/css
+
+Uri: https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=YBTdDfRmcrI
+File Name: D:\crypto projects\toka.peerduck.com\watch.html
+Content Type: text/html
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://toka.b-cdn.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elementor-inner-sections-by-taspristudio/public/js/euis-public.js?ver=1.0.0
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elementor-inner-sections-by-taspristudio\public\js\euis-public.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/themes/toka/assets/js/bootstrap.bundle.min.js?ver=1.24
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\themes\toka\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/themes/toka/assets/js/index.js?ver=1.24
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\themes\toka\assets\js\index.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/themes/toka/assets/js/sticky-header.js?ver=1.24
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\themes\toka\assets\js\sticky-header.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/04/breally_1.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\04\breally_1.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/04/acume.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\04\acume.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjecn-979x1024.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjecn-979x1024.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/evhvef-875x1024.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\evhvef-875x1024.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/ynyh-1024x551.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\ynyh-1024x551.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/lnfrlw-1024x548.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\lnfrlw-1024x548.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjnkjn.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjnkjn.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/rcgbkg.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\rcgbkg.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/rnvl.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\rnvl.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/n4xlktx@512x.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\n4xlktx@512x.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjnjn.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjnjn.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/nerkjgn-1024x665.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\nerkjgn-1024x665.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/biun-768x1077.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\biun-768x1077.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/hjbj.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\hjbj.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/ibhknkj-768x675.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\ibhknkj-768x675.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/02/98-testimonial.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\02\98-testimonial.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-187555911-1
+File Name: D:\crypto projects\toka.peerduck.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/anime.min.js?ver=4.9.14
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\anime.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-floating-effects.min.js?ver=4.9.14
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-floating-effects.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/remote/ue-remote-controls.js?ver=1.5.12
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elements-for-elementor\assets_libraries\remote\ue-remote-controls.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.12
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elements-for-elementor\assets_libraries\owl-carousel-new\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/lity/lity.min.js?ver=1.5.12
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\unlimited-elements-for-elementor\assets_libraries\lity\lity.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.7
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\mailchimp-for-wp\assets\js\forms.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.5
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.5
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.5
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\flexslider\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-includes/js/wp-util.min.js?ver=6.0
+File Name: D:\crypto projects\toka.peerduck.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=6.5.1
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/04/breally_1-300x109.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\04\breally_1-300x109.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/04/acume-300x43.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\04\acume-300x43.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjecn-287x300.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjecn-287x300.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjecn-768x803.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjecn-768x803.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjecn-1468x1536.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjecn-1468x1536.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjecn-600x628.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjecn-600x628.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/evhvef-256x300.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\evhvef-256x300.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/evhvef-768x898.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\evhvef-768x898.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/evhvef-1313x1536.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\evhvef-1313x1536.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/evhvef-600x702.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\evhvef-600x702.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/evhvef.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\evhvef.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/ynyh-300x161.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\ynyh-300x161.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/ynyh-768x413.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\ynyh-768x413.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/ynyh-1536x826.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\ynyh-1536x826.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/ynyh-600x323.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\ynyh-600x323.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/ynyh.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\ynyh.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/lnfrlw-300x160.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\lnfrlw-300x160.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/lnfrlw-768x411.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\lnfrlw-768x411.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/lnfrlw-600x321.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\lnfrlw-600x321.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/lnfrlw.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\lnfrlw.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/k5jfyn-205x300.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\k5jfyn-205x300.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjnkjn-224x300.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjnkjn-224x300.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/rcgbkg-155x300.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\rcgbkg-155x300.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/rnvl-252x300.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\rnvl-252x300.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/n4xlktx@512x-284x300.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\n4xlktx@512x-284x300.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/kjnjn-269x300.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\kjnjn-269x300.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/nerkjgn-300x195.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\nerkjgn-300x195.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/nerkjgn-768x498.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\nerkjgn-768x498.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/nerkjgn-1536x997.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\nerkjgn-1536x997.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/nerkjgn-600x389.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\nerkjgn-600x389.png
+Content Type: image/png
+
+Uri: https://toka.b-cdn.net/wp-content/uploads/2022/05/nerkjgn.png
+File Name: D:\crypto projects\toka.peerduck.com\wp-content\uploads\2022\05\nerkjgn.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: D:\crypto projects\toka.peerduck.com\index.htm
+Content Type: text/html
+
